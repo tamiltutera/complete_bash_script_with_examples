@@ -2,11 +2,17 @@
 <h3 align="center">Complete Bash Shell scripting tutorial with examples</h3>
 .
 ├── bash_arrays
+
 │   ├── 01_create_array.sh
+
 │   ├── 1
+
 │   ├── array_iteration.sh
+
 │   └── array_operations.sh
+
 ├── bash_basic
+
 │   └── sample_script.sh
 ├── bash_dictionaries
 │   ├── 01_create_dict.sh
