@@ -57,21 +57,34 @@
 
 │   ├── 02_File_Conditions
 
-│   │   ├── 1
 │   │   ├── dir_exists.sh
+
 │   │   ├── file_comparison.sh
+
 │   │   ├── file_content_comparison.sh
+
 │   │   ├── file_executable.sh
+
 │   │   ├── file_exists.sh
+
 │   │   ├── file_readable.sh
+
 │   │   ├── output1.txt
+
 │   │   └── output2.txt
+
 │   └── 03_combinations
+
 │       ├── and_combinations.sh
+
 │       └── or_combinations.sh
+
 ├── functions
+
 │   └── define_functions.sh
+
 └── README.md
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
