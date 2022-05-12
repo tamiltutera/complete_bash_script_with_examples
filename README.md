@@ -2,33 +2,61 @@
 <h3 align="center">Complete Bash Shell scripting tutorial with examples</h3>
 .
 ├── bash_arrays
+
 │   ├── 01_create_array.sh
+
 │   ├── 1
+
 │   ├── array_iteration.sh
+
 │   └── array_operations.sh
+
 ├── bash_basic
+
 │   └── sample_script.sh
+
 ├── bash_dictionaries
+
 │   ├── 01_create_dict.sh
+
 │   └── 02_dict_iteration.sh
+
 ├── bash_files
+
 │   ├── delete_file.sh
+
 │   └── read_file.sh
+
 ├── bash_loops
+
 │   └── loops_in_shell.sh
+
 ├── bash_sleep
+
 │   └── sleep_script.sh
+
 ├── bash_user_input
+
 │   ├── bash_input.sh
+
 │   └── bash_paramters.sh
+
 ├── bash_wait
+
 │   └── wait_script.sh
+
 ├── conditions
+
 │   ├── 01_Basic_String
+
 │   │   ├── arithmetic_conditions.sh
+
 │   │   ├── string_comparison.sh
+
 │   │   └── string_conditions.sh
+
 │   ├── 02_File_Conditions
+
 │   │   ├── 1
 │   │   ├── dir_exists.sh
 │   │   ├── file_comparison.sh
